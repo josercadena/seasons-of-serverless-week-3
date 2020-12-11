@@ -4,6 +4,8 @@ This repository is my solution for the Seasons of Serverless Week 3 Challenge: "
 
 ![](kebab_example.png)
 
+*Yeah, I know those are not the right emojis for the seasonings, suggestions are welcome 😅
+
 ## About the solution
 
 This is an Azure function that, given an amount of ground lamb (meatAmount param), returns:
@@ -15,7 +17,7 @@ This is an Azure function that, given an amount of ground lamb (meatAmount param
 ## Considerations
 
 * The calculations are based on this [recipe](https://www.thespruceeats.com/adana-kebab-4164647) 
-* I assumed a serving with a length of 10 cm (including all ingredients) and consistent distribution of ingredients... Which means that a 10cm-long kebab would be enough to feed 4 people (or 1 Jose tbh 😅)
+* I assumed a serving with a length of 10 cm (including all ingredients) and consistent distribution of ingredients... Which means that a 10cm-long kebab would be enough to feed 4 people (or 1 Jose tbh 😅 )
 
 ## How to run this
 * .NET 3 installed
